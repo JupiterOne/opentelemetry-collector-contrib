@@ -1,0 +1,10 @@
+{
+  "name": "opentelemetry-collector-contrib",
+  "version": "0.0.0",
+  "description": "Automatically generated package.json, please edit manually",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JupiterOne/opentelemetry-collector-contrib.git"
+  },
+  "license": "UNLICENSED"
+}
